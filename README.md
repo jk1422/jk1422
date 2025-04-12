@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonathan
+## 👋 Hi, I’m Jonathan
 
 I'm a developer who speaks c# fluently. 
 
